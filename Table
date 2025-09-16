@@ -2,7 +2,7 @@
 <head>
 <title>Creating a table</title>
 </head>
-<body>
+<body style="font:Time New Rome">
 <table border="1" border-color="yellow">
 <tr>
   <th>Name</th>
