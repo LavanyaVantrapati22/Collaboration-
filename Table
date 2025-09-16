@@ -3,7 +3,7 @@
 <title>Creating a table</title>
 </head>
 <body>
-<table border="1">
+<table border="1" border-color="yellow">
 <tr>
   <th>Name</th>
   <th>Section</th>
