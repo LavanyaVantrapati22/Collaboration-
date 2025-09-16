@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Creating a table</title>
+</head>
+<body>
+<table border="1">
+<tr>
+  <th>Name</th>
+  <th>Section</th>
+  <th>Age</th>
+</tr>
+<tr>
+<td>Lavanya</td>
+<td>Bsc</td>
+<td>19</th>
+</tr>
+<tr>
+<td>Manojna</td>
+<td>Bsc</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Durga</td>
+<td>Bsc</td>
+<td>20</td>
+</tr>
+</table>
+</body>
+</html>
